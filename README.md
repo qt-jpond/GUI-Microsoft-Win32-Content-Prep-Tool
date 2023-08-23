@@ -1,5 +1,14 @@
 # Microsoft Win32 Content Prep Tool
 
+#HOW TO USE Graphical User Interface
+1. Create a folder in the root of C "Prep-Tool"
+"C:\Prep-Tool"
+2. Extract the contents of the ZIP File downloaded to that folder
+3. Run the IntuneWinAppGUI.EXE, Select your file and folders, OK.
+4. Check your output folder for the .intunewin app
+
+
+
 Manage Windows Apps (.intunewin) with Intune
 
 [Version 1.8.4](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool/releases/tag/v1.8.4)
